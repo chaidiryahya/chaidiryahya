@@ -1,5 +1,5 @@
 # 💫 About Me:
-programmer, dreamer, freak thinker :)
+Just an ordinary engineer that break the business problem through code.
 
 
 ## 🌐 Socials:
